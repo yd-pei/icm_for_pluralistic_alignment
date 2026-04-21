@@ -2,8 +2,6 @@
 
 This repository accompanies the thesis *Internal Coherence Maximization for Unsupervised Persona-Conditioned Value Specification in Pluralistic Alignment*.
 
-Code available at [Taslim-M/Unsupervised-Elicitation](https://github.com/Taslim-M/Unsupervised-Elicitation/tree/opinionqa).
-
 It contains the code, data preparation steps, and experiment pipelines for unsupervised elicitation, including OpinionQA and persona-conditioned evaluation.
 
 ## Setup
